@@ -1,0 +1,12 @@
+body {
+    margin: 0
+}
+
+.image-gallery-image {
+    width: 100%;
+    height: 300px;
+}
+
+.fullscreen .image-gallery-image {
+    height: 100vh;
+}
